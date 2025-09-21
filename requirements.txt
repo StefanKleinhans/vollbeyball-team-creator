@@ -28,5 +28,3 @@ typing_extensions==4.14.1
 tzdata==2025.2
 urllib3==2.5.0
 uvicorn==0.35.0
-# Editable install with no version control (volleyball-team-creator==0.1.0)
--e /Users/skleinhans/Desktop/Test-Lab/volleyball-team-creator
