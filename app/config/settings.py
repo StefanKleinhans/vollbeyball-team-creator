@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path="../configs/local/config.env")
+load_dotenv()
 
 class Settings:
     DB_STRING_URL: str = os.getenv("POSTGRES_DATABASE_URL")
